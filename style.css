@@ -1,0 +1,6 @@
+.logo {background-color: rgb(26, 26, 117);
+display: flex;
+flex-direction: row;}
+.navbar {display: flex;
+flex-direction: row-reverse;
+}

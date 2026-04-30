@@ -51,3 +51,7 @@ nav.navbar {
     color: white;
  }
 
+ .hero {
+    width: 100%;
+    height: auto;
+ }

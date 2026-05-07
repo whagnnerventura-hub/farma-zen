@@ -51,7 +51,18 @@ nav.navbar {
     color: white;
  }
 
-.hero img{
+.hero img  {
     width: 100%;
     height: auto;
  }
+
+.content {
+  display: flex;
+  justify-content: space-aroundz;
+    
+    
+    
+
+    height: 193px;
+    width: 198px;
+}

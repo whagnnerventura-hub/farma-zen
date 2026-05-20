@@ -56,13 +56,20 @@ nav.navbar {
     height: auto;
  }
 
-.content {
-  display: flex;
-  justify-content: space-aroundz;
-    
-    
-    
+ /* ##### content ##### */
 
-    height: 193px;
-    width: 198px;
+.container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    height: 800px;
+    width: 100%;}
+
+div.content{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+
 }

@@ -73,3 +73,51 @@ div.content{
     align-items: center;
 
 }
+
+.covid-test-content {
+    display: flex;
+    justify-content: space-around;
+    align-content: center;
+
+    width: 100%;
+    height: auto;
+}
+.pvr {
+    display: flex;
+    justify-content: space-around;
+    align-content: center;
+
+    font-family: sans-serif;
+    font-weight: 700;
+    font-size: 48px;
+    font-style: bold;
+}
+
+.azul {
+
+    color: #2541B2;
+}
+.pag  {
+    display: flex;
+    justify-content: center;
+    align-content: center;
+
+    
+}
+.pag a {
+    display: flex;
+    justify-content: space-around;
+    align-content: center;
+
+    font-family: sans-serif;
+    font-weight: 700;
+    font-size: 48px;
+    font-style: bold;
+    
+    color: rgb(252, 252, 252);
+}
+
+.btn {
+    background-color: #2541B2;
+    padding-bottom: 12px;
+}

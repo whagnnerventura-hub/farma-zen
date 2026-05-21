@@ -120,4 +120,12 @@ div.content{
 .btn {
     background-color: #2541B2;
     padding-bottom: 12px;
+    border-radius: 8px;
+}
+
+.fim{
+    display: flex;
+    
+    height: 140px;
+    background-color: #2541B2;
 }
